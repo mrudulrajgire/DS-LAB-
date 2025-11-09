@@ -1,0 +1,12 @@
+Metric,Value
+Average AQI,62.41999267667521
+Median AQI,58.0
+Min AQI,0.0
+Max AQI,398.0
+Std Dev AQI,21.838629520659158
+Average SO2,9.44625753813409
+Average NOx,28.94966323998582
+Average RSPM,45.746633593196314
+Total Days Monitored,2974.0
+Days Exceeding Standard (>100),186.0
+Percentage Above Standard,6.254203093476798
