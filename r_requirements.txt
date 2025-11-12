@@ -1,4 +1,4 @@
-readr
-tibble
 dplyr
 ggplot2
+readr
+tibble

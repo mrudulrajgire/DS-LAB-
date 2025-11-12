@@ -25,6 +25,14 @@ This repository is a collection of data science experiments, notes, and code sam
 | 14 | To perform text summarization using NLP |
 
 
+### Python Dependencies
+
+Python libraries referenced across the notebooks and scripts are captured in `python_requirements.txt`. Install them into your preferred environment with:
+
+```powershell
+python -m pip install -r python_requirements.txt
+```
+
 ### R Dependencies
 
 All R packages used in this repository are listed in `r_requirements.txt`. You can install them using:
@@ -34,3 +42,5 @@ install.packages(readLines("r_requirements.txt"))
 ```
 
 Browse the repository for specific notebooks and scripts to see example analyses and experiments.
+
+Instructor: Dr. Nikesh Shelke.
